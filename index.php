@@ -21,7 +21,7 @@
             <p>E-mail: asakeevrinat70@gmail.com</p>
         </h2></th>
           <th>
-              <p align="right"><img src="img/3.jpeg" height="300" width="500" alt=""></p>
+              <p align="right"><img src="3.jpeg" height="300" width="500" alt=""></p>
           </th>
           </tr>
        </table>
