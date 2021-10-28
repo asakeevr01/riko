@@ -18,6 +18,7 @@
             <p>Group: CSC</p>
             <p>Advasior: Mevlut.K</p>
             <p>Phone number: 0707460033,0704237001</p>
+           
             <p>E-mail: asakeevrinat70@gmail.com</p>
         </h2></th>
           <th>
