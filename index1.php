@@ -10,12 +10,12 @@
 		<h1 class="label">User Login</h1>
 		<form class="login_form" action="riko.html" method="post" name="form" onsubmit="return validated()">
 			<div class="font">Email or Phone</div>
-			<input autocomplete="off" type="" name= "csc">
+			<input autocomplete="off" type="" name= "1234">
 			<div id="email_error">Please fill up your Email or Phone</div>
 			<div class="font font2">Password</div>
 			<input type="password" name="password">
 			<div id="pass_error">Please fill up your Password</div>
-			<button type="19">Login</button>
+			<button type="12345">Login</button>
 		</form>
 	</div>	
 	<script src="valid.js"></script>
